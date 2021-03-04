@@ -15,9 +15,43 @@ Table of Contents
 
 Week 1
 
+Helloworld.py
+
+
 Week 2
 
+addOne.py
+bmi.py
+helloName.py
+readName.py
+
+
 Week 3
+
+Intro
+
+div.py
+firstVar.py
+normalise.py
+randomFruit.py
+randomGenerator.py
+sub.py
+testTypes.py
+
+Lab 3.2
+
+absolute.py
+convert.py
+floor.py
+round.py
+
+Lab 3.3
+
+len.py
+normalise.py
+secondstring.py
+
+
 
 Week 4
 
