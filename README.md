@@ -1,4 +1,4 @@
-# programmingcourse2021
+## programmingcourse2021
 
 This is a repository to store sample code 
 
@@ -11,14 +11,14 @@ Develop an algorithm to solve a computational problem.
 Write a computer program in a high-level programming language.
 Construct a complex computer program from a series of simpler computer programs.
 
-Table of Contents
+**#Table of Contents**
 
-Week 1
+**Week 1**
 
 Helloworld.py
 
 
-Week 2
+**Week 2**
 
 addOne.py
 bmi.py
@@ -26,7 +26,7 @@ helloName.py
 readName.py
 
 
-Week 3
+**Week 3**
 
 Intro
 
@@ -53,8 +53,34 @@ secondstring.py
 
 
 
-Week 4
+**Week 4**
 
-Week 5
+Flow
+-grade.py
+-isEven.py
 
-Week 6
+Loops
+ -average.py
+ -evens.py
+ -guess1.py
+ -guess2.py
+ -topThree.py
+
+
+
+**Week 5**
+
+datastructures.py
+
+**Week 6**
+
+
+**Week 7**
+
+count.txt
+files.py
+
+**Week 8**
+
+function.py
+salaries.py
