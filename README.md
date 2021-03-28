@@ -11,7 +11,7 @@ Develop an algorithm to solve a computational problem.
 Write a computer program in a high-level programming language.
 Construct a complex computer program from a series of simpler computer programs.
 
-**#Table of Contents**
+**Table of Contents**
 
 **Week 1**
 
@@ -56,14 +56,21 @@ secondstring.py
 **Week 4**
 
 Flow
+
 -grade.py
+
 -isEven.py
 
 Loops
+
  -average.py
+ 
  -evens.py
+ 
  -guess1.py
+ 
  -guess2.py
+ 
  -topThree.py
 
 
@@ -78,9 +85,11 @@ datastructures.py
 **Week 7**
 
 count.txt
+
 files.py
 
 **Week 8**
 
 function.py
+
 salaries.py
