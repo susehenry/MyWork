@@ -1,6 +1,6 @@
 # This program generates 10 random numbers.
 # prints them out, then prints out the top 3
-s
+
 #author: Susan Henry
 
 
